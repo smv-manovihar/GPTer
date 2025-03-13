@@ -69,4 +69,4 @@ GPTer is a compact, voice-activated assistant designed to bring intuitive, human
 
 ---
 
-# ⚠️NOTE: This Project was done by forking the XIAO ESP32 S3 "Miniature Chatgpt voice assistant".
+#### ⚠️NOTE: This Project was done by forking the XIAO ESP32 S3 "Miniature Chatgpt voice assistant".
